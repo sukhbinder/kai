@@ -1,4 +1,4 @@
-> This is a fork of non-coding-agent
+> This is a fork of kon-coding-agent
 
 <pre align="center">
 ░█░█░█▀█░█▀█
